@@ -1,0 +1,8 @@
+export const SET_LOADING = "SET_LOADING"
+export const SET_DETAIL = "SET_DETAIL"
+export const SET_TOKEN = "SET_TOKEN"
+export const SET_FILTER = "SET_FILTER"
+export const SET_RECRUITMENT_LIST = "SET_RECRUITMENT_LIST"
+export const SET_ERROR = "SET_ERROR"
+export const CLEAR_DATA = "CLEAR_DATA"
+export const ADD_RECRUITMENT_LIST = "ADD_RECRUITMENT_LIST"
